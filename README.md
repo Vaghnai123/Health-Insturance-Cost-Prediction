@@ -265,6 +265,3 @@ This project provides an **estimated insurance premium based on a Machine Learni
 
 ---
 
-## ⭐ If You Like This Project
-
-If you find this project useful, consider giving the repository a ⭐ on GitHub.
